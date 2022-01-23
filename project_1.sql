@@ -33,16 +33,6 @@ CREATE TABLE `komendy` (
   `polecenie` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
---
--- Zrzut danych tabeli `komendy`
---
-
-INSERT INTO `komendy` (`ID_uzytkownik`, `komenda`, `polecenie`) VALUES
-(0, 'yas', 'chrome'),
-(1, 'yas', 'chrome'),
-(1, 'yas', 'chrome');
-
--- --------------------------------------------------------
 
 --
 -- Struktura tabeli dla tabeli `uzytkownik`
