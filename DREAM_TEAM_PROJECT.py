@@ -605,7 +605,7 @@ def trainModel():
 
 
 
-#trainModel()
+trainModel()
 app = SampleApp()
 app.geometry('450x500')
 app.title('DREAM TEAM PROJECT')
